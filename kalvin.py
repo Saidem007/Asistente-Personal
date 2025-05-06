@@ -56,4 +56,4 @@ def hablar(texto):
     engine.runAndWait()
 
 
-verificador(convertidor())
+

@@ -2,3 +2,14 @@ IA KALVIN
 LO QUE QUEREMOS :
 -Que hable y responda
 -que abra aplicaciones y interactue en ella tambien
+Librerias a instalar:
+-pyautogui
+-pyttsx3
+-subprocess
+-speech_recognition 
+-spacy
+-tkinter
+version de python necesaria:
+-python 3.9 o más
+---------------OJO--------------
+Instalar todos los interpretes de C++ 
